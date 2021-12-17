@@ -70,11 +70,11 @@ To import the data and the process with the experiments of the six classifier, c
 Select **Create new local repository** on the prompt and make it point to the **rapidminer-repo** directory placed in the directory where you downloaded this GitHub repository.
 
 <p align="center">
-  <img alt="Create new local repository" src="images/createNewLocalRepository.png">
+  <img alt="Create new local repository" src="images/createNewLocalRepo.png">
 </p>
 
 <p align="center">
-  <img alt="Point the local repository to the rapidminer-repo directory" src="images/createNewLocalRepository2.png">
+  <img alt="Point the local repository to the rapidminer-repo directory" src="images/createNewLocalRepo2.png">
 </p>
 
 ### Open Experiment Process
