@@ -4,7 +4,7 @@ This repository contains the source code and the data of the experiments present
 
 >A. Polenta, S. Tomassini, N. Falcionelli, P. Contardo, A.F. Dragoni, P. Sernani, *Machine learning for quality prediction in plastic injection molding: a comparison on a real case study*.
 
-The paper is currently under review for the publication in the [Computers and Industrial Engineering](https://www.journals.elsevier.com/computers-and-industrial-engineering) journal.
+The paper is currently under review for the publication in the special issue *Advances in Computing, Communication & Security* of the [Information](https://www.mdpi.com/journal/information) journal.
 
 Specifically, **the experiments are implemented in Rapid Miner** and compare **six Machine Learning (ML) techniques** to predict the quality classes of plastic road lenses using the data of the process parameters collected from the molding machine during the production. To this end, the repository is composed of the following directories:
 
@@ -112,4 +112,4 @@ Once the tests with a classifier ended, you can read the results under the **"Re
 </p>
 
 ## Experiment Results
-The [results/Results.ods](results/Results.ods) file includes the results of the tested classfiers. For each classifier, the results for **each combination of hypermeters** and **the confusion matrix related to the best combination** are reported.
+The [results/Results.ods](results/Results.ods) spreadsheet includes the results of the tested classifiers. For each classifier, the results for **each combination of hypermeters** and **the confusion matrix related to the best combination** are reported.
