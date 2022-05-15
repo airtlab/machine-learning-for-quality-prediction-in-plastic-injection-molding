@@ -2,7 +2,7 @@
 
 This repository contains the source code and the data of the experiments presented in the paper
 
->A. Polenta, S. Tomassini, N. Falcionelli, P. Contardo, A.F. Dragoni, P. Sernani, *Machine learning for quality prediction in plastic injection molding: a comparison on a real case study*.
+>A. Polenta, S. Tomassini, N. Falcionelli, P. Contardo, A.F. Dragoni, P. Sernani, *A comparison of Machine Learning techniques for the quality classification of molded products*.
 
 The paper is currently under review for the publication in the special issue *Advances in Computing, Communication & Security* of the [Information](https://www.mdpi.com/journal/information) journal.
 
