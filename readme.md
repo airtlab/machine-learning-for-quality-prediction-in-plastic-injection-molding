@@ -32,7 +32,7 @@ Bibtex entry:
 	   number = {6},
 	   article-number = {272},
 	   doi = {10.3390/info13060272}
-	}
+	 }
 
 The paper is open access and available here: <https://www.mdpi.com/2078-2489/13/6/272>.
 
