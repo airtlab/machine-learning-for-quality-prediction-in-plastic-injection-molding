@@ -16,7 +16,7 @@ Specifically, **the experiments are implemented in Rapid Miner** and compare **s
 
 - [images](images/), including the images used in this readme file.
 
-## Data and Source code release agreement
+## Data and Source Code Release Agreement
 
 The dataset and the source code of the experiments are freely released for research and educational purposes. Please cite as
 - Polenta, A.; Tomassini, S.; Falcionelli, N.; Contardo, P.; Dragoni, A.F.; Sernani, P. A Comparison of Machine Learning Techniques for the Quality Classification of Molded Products. Information 2022, 13, 272. <https://doi.org/10.3390/info13060272>
@@ -53,8 +53,8 @@ The [dataset/data.csv](dataset/data.csv) file includes 1451 feature vectors corr
 | Torque mean value current cycle            | N&middot;m     | Mean value of the torque on the injection screw                 |
 | Specific back pressure peak value          | Bar            | Peak value of the resistance of the injection screw             |
 | Specific injection pressure peak value     | Bar            | Peak value of the injection pressure                            |
-| Screw position at the end of hold pressure | Cm             | Position of the injection screw at the end of the holding cycle |
-| Shot volume                                | Cm<sup>3</sup> | Injection volume                                                |
+| Screw position at the end of hold pressure | cm             | Position of the injection screw at the end of the holding cycle |
+| Shot volume                                | cm<sup>3</sup> | Injection volume                                                |
 
 The data was produced by the "[Engel E-MAC 310/100](https://www.engelglobal.com/en/us/index.html)" injection machine and collected by the ["TIG" Manufacturing Execution System (MES)](https://www.tig-mes.com/en/).
 
