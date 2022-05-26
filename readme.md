@@ -2,9 +2,9 @@
 
 This repository contains the source code and the data of the experiments presented in the paper
 
->A. Polenta, S. Tomassini, N. Falcionelli, P. Contardo, A.F. Dragoni, P. Sernani, *A comparison of Machine Learning techniques for the quality classification of molded products*.
+>Polenta, A.; Tomassini, S.; Falcionelli, N.; Contardo, P.; Dragoni, A.F.; Sernani, P. A Comparison of Machine Learning Techniques for the Quality Classification of Molded Products. Information 2022, 13, 272. <https://doi.org/10.3390/info13060272>
 
-The paper is currently under review for the publication in the special issue *Advances in Computing, Communication & Security* of the [Information](https://www.mdpi.com/journal/information) journal.
+The paper is published in the special issue *Advances in Computing, Communication & Security* of the [Information](https://www.mdpi.com/journal/information) journal.
 
 Specifically, **the experiments are implemented in Rapid Miner** and compare **six Machine Learning (ML) techniques** to predict the quality classes of plastic road lenses using the data of the process parameters collected from the molding machine during the production. To this end, the repository is composed of the following directories:
 
@@ -15,6 +15,26 @@ Specifically, **the experiments are implemented in Rapid Miner** and compare **s
 - [results](results/), including a spreadsheet ("Results.ods") with the results got by each classifier in the quality prediction of the 1451 plastic road lenses available in the dataset, using a stratified 5-fold cross validation scheme.
 
 - [images](images/), including the images used in this readme file.
+
+## Data and Source code release agreement
+
+The dataset and the source code of the experiments are freely released for research and educational purposes. Please cite as
+- Polenta, A.; Tomassini, S.; Falcionelli, N.; Contardo, P.; Dragoni, A.F.; Sernani, P. A Comparison of Machine Learning Techniques for the Quality Classification of Molded Products. Information 2022, 13, 272. <https://doi.org/10.3390/info13060272>
+ 
+Bibtex entry:
+
+	 @article{Polenta2022,
+	   author = {Polenta, Andrea and Tomassini, Selene and Falcionelli, Nicola and Contardo, Paolo and Dragoni, Aldo Franco and Sernani, Paolo},
+	   title = {A Comparison of Machine Learning Techniques for the Quality Classification of Molded Products},
+	   journal = {Information},
+	   volume = {13},
+	   year = {2022},
+	   number = {6},
+	   article-number = {272},
+	   doi = {10.3390/info13060272}
+	}
+
+The paper is open access and available here: <https://www.mdpi.com/2078-2489/13/6/272>.
 
 ## Data Description
 
